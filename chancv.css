@@ -145,6 +145,9 @@ body {
     background: #03a9f4;
 }
 
+.contactinfo ul .text a {
+    text-decoration: none;
+}
 .contactinfo ul .text a:visited {
     color: white;
 }
